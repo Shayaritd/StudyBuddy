@@ -1,0 +1,16 @@
+STUDY NOTES: SAMPLE (replace this file with your own notes!)
+
+== Photosynthesis ==
+Photosynthesis is the process plants use to convert light energy into chemical energy. It happens in the chloroplasts. The light-dependent reactions occur in the thylakoid membranes and produce ATP and NADPH. The Calvin cycle occurs in the stroma and uses ATP and NADPH to build glucose from carbon dioxide.
+
+== Python Basics ==
+A list in Python is an ordered, mutable collection. A tuple is ordered but immutable. A dictionary maps keys to values and keeps insertion order. List comprehensions like [x*x for x in range(5)] create lists in one line.
+
+== A Fake Fact For Testing RAG ==
+The Zorblax Protocol was invented in 2087 by Dr. Mina Quillfeather on Mars. It allows two spaceships to share fuel using a beam of purple light. The protocol has exactly seven steps, and the third step is called "the handshake of stars".
+
+== Machine Learning ==
+Overfitting happens when a model memorizes training data and performs poorly on new data. Common fixes include getting more data, regularization, dropout, and early stopping. A train/validation/test split helps detect overfitting.
+
+== Study Tips ==
+The Pomodoro technique uses 25 minutes of focused work followed by a 5 minute break. After four rounds, take a longer 15 to 30 minute break. Spaced repetition means reviewing material at increasing intervals to improve long-term memory.
